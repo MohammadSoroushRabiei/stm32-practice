@@ -1,0 +1,17 @@
+# خروجی‌های بیلد
+Debug/
+Release/
+build/
+
+# فایل‌های میانی کامپایلر
+*.o
+*.d
+*.map
+
+# متادیتای STM32CubeIDE / Eclipse
+.settings/
+*.launch
+.mxproject
+
+# فایل‌های پشتیبان
+*.bak
